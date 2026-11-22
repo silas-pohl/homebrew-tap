@@ -8,8 +8,8 @@
 class Lookhere < Formula
   desc "Cartoon pointer on a stick that pokes the screen every time you click"
   homepage "https://github.com/silas-pohl/lookhere"
-  url "https://github.com/silas-pohl/lookhere/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "85ca7f86c5ed63d1fd68744d4b045b10374bf06ee6573e42c17c4f4df7b4b7a6"
+  url "https://github.com/silas-pohl/lookhere/archive/refs/tags/v1.0.1.tar.gz"
+  sha256 "756c44463acf7dfb1cef480f48f2eba7a6c237dd09ec7796f90aeb04a1e8e791"
   license "MIT"
   head "https://github.com/silas-pohl/lookhere.git", branch: "main"
 
